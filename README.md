@@ -2,7 +2,7 @@
 
 Feista is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
-## Live Demo **[Here]([https://feista-ecommerce.netlify.app/](https://health-tracker-4asjs8oaw-pramodtejras-projects.vercel.app/)).**
+## Live Demo **[Here](https://feista-ecommerce.netlify.app/).**
 
 <p align="center"> 
   <a href="https://feista-ecommerce.netlify.app/" target="_blank">
